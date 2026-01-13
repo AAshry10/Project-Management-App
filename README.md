@@ -2,7 +2,7 @@
 
 <div align="left">
 
-# React Essentials Practice — Project Management App
+# React Practice — Project Management App
 
 A small React practice project (Udemy “React Essentials”) to create projects, view details, and manage tasks per project.
 
