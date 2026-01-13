@@ -4,7 +4,14 @@
 
 # React Practice — Project Management App
 
-A small React practice project (Udemy “React Essentials”) to create projects, view details, and manage tasks per project.
+Concepts : 
+- Components
+- Props
+- State
+- Styling React Apps
+- Refs & Portals
+
+A small React practice project (Udemy “React Course”) to create projects, view details, and manage tasks per project.
 
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
 <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite">
