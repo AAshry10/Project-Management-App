@@ -39,7 +39,7 @@ This app helps you manage multiple projects and their tasks:
 
 Notes:
 
-- Data is stored **in memory** (React state) — refreshing the page resets everything.
+- Data is stored **in memory** (React state) — refreshing the page resets everything to a hard coded list of projects.
 - Missing inputs show a validation **Modal** rendered via a React Portal (`#modal-root`).
 
 [![Live Demo](https://img.shields.io/badge/Click%20Here%20to%20Try-805AD5?style=for-the-badge&logo=google-chrome)](https://YOUR-LIVE-DEMO-LINK-HERE)
@@ -62,7 +62,7 @@ Notes:
 
 ### Prerequisites
 
-- **Node.js** (LTS recommended)
+- **Node.js** 
 - **npm** (comes with Node)
 
 ### Installation
